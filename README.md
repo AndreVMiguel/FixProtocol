@@ -1,5 +1,3 @@
-# FixProtocol
-
 # FIX Message Generator & Handler
 
 Este projeto Java gera e processa mensagens FIX no formato usado pela B3 (mercado de ações). Utiliza a biblioteca [QuickFIX/J](https://www.quickfixj.org/) e é gerenciado com Maven.
